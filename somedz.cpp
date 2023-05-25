@@ -13,7 +13,7 @@ int main() {
 	float some_float_var = 7.18; // Вещественное число
 	unsigned char a = 'A'; // Символьное значение
 	const unsigned long int long_int = 9e18; // Константное длинное положительное число
-	unsigned int something = 66666; // Положительное целое число
+	unsigned int something = 6666; // Положительное целое число
 
 
 	char int_to_char = gl_integer; // Присваиваем тип int к типу char. Грозит серьёзной потерей данных так как мы можем присвоить значение выше лимита, что делать нельзя.
