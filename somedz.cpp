@@ -10,7 +10,7 @@ int main() {
 	std::string hello_world_text = "Hello world!"; // Текстовая переменная.
 	std::string cpp_text = "Я учу C++ :)"; // Другая текстовая переменная.
 
-	float some_float_var = 7.184; // Вещественное число
+	float some_float_var = 7.18; // Вещественное число
 	unsigned char a = 'A'; // Символьное значение
 	const unsigned long int long_int = 9e18; // Константное длинное положительное число
 	unsigned int something = 66666; // Положительное целое число
